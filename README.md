@@ -70,8 +70,8 @@ The system follows a clean **3-layer architecture**:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-email-reply-generator.git
-cd ai-email-reply-generator
+git clone https://github.com/Sarthak-sharma1/EmailWriter
+cd EmailWriter
 ```
 
 ### 2. Backend Setup (Spring Boot)
